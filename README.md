@@ -59,18 +59,11 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### 📝 To Do
 <ul>
-<li>☐ Project Setup</li>
-<li>☐ Download materials</li>
-<li>☐ Unzip project folder</li>
-<li>☐ Launch Jupyter Notebook</li>
-<li>☐ Open date-a-scientist.ipynb</li>
-<li>☐ Create Git repository</li>
-<li>☐ Project Scoping</li>
-<li>☐ Select ML-Solvable Problem</li>
-<li>☐ Load and Check Data</li>
-<li>☐ Explore and Explain Data</li>
-<li>☐ Preprocess Data</li>
-<li>☐ Build Model(s)</li>
+<li>☐ Explore lifestyle choices correlations with zodiac signs</li>
+<li>☐ Create features from essays and lifestyle data for ML model</li>
+<li>☐ Build and train machine learning model for zodiac prediction</li>
+<li>☐ Evaluate model performance and interpret results</li>
+<li>☐ Draw conclusions and document insights from the analysis</li>
 </ul>
 
 </td>
@@ -78,7 +71,8 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ⚡ In Progress
 <ul>
-<li>☐ Currently working on...</li>
+<li>☐ Assess data quality - missing values, essay completion rates, zodiac patterns</li>
+<li>☐ Analyze essay completion patterns by zodiac sign</li>
 </ul>
 
 </td>
@@ -86,7 +80,10 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ✅ Done
 <ul>
-<li>☐ Completed tasks will appear here</li>
+<li>☐ Project Setup - Download materials, launch Jupyter, create Git repository</li>
+<li>☐ Load and explore OKCupid dataset - understand structure and data types</li>
+<li>☐ Define research question - zodiac sign prediction using lifestyle and essay data</li>
+<li>☐ Clean zodiac field - extract core signs from messy text data</li>
 </ul>
 
 </td>
