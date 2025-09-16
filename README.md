@@ -71,8 +71,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ⚡ In Progress
 <ul>
-<li>☐ Assess data quality - missing values, essay completion rates, zodiac patterns</li>
-<li>☐ Analyze essay completion patterns by zodiac sign</li>
+<li>☐ Explore lifestyle choices correlations with zodiac signs</li>
 </ul>
 
 </td>
@@ -84,6 +83,8 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 <li>☐ Load and explore OKCupid dataset - understand structure and data types</li>
 <li>☐ Define research question - zodiac sign prediction using lifestyle and essay data</li>
 <li>☐ Clean zodiac field - extract core signs from messy text data</li>
+<li>☐ Assess data quality - missing values, essay completion rates, zodiac patterns</li>
+<li>☐ Analyze essay completion patterns by zodiac sign</li>
 </ul>
 
 </td>
