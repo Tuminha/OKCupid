@@ -71,6 +71,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 ### ⚡ In Progress
 <ul>
 <li>☐ Analyze essay content using NLP techniques for zodiac prediction</li>
+<li>☐ Create features from essays and lifestyle data for ML model</li>
 </ul>
 
 </td>
