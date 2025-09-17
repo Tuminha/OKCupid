@@ -59,7 +59,6 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### 📝 To Do
 <ul>
-<li>☐ Explore lifestyle choices correlations with zodiac signs</li>
 <li>☐ Create features from essays and lifestyle data for ML model</li>
 <li>☐ Build and train machine learning model for zodiac prediction</li>
 <li>☐ Evaluate model performance and interpret results</li>
@@ -71,7 +70,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ⚡ In Progress
 <ul>
-<li>☐ Explore lifestyle choices correlations with zodiac signs</li>
+<li>☐ Analyze essay content using NLP techniques for zodiac prediction</li>
 </ul>
 
 </td>
@@ -85,6 +84,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 <li>☐ Clean zodiac field - extract core signs from messy text data</li>
 <li>☐ Assess data quality - missing values, essay completion rates, zodiac patterns</li>
 <li>☐ Analyze essay completion patterns by zodiac sign</li>
+<li>☐ Explore lifestyle choices correlations with zodiac signs</li>
 </ul>
 
 </td>
