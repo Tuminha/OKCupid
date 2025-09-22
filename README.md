@@ -206,6 +206,19 @@ OKCupid/
 - **Pisces**: "evenings, annoying, policy, different types, camping"
 - **Gemini**: "things really, wings, adult, currently reading, missed"
 
+## 📊 Presentation
+
+**PowerPoint Presentation:** [Date-A-Scientist-Predicting-Zodiac-Signs-from-OKCupid-Profiles.pptx](Date-A-Scientist-Predicting-Zodiac-Signs-from-OKCupid-Profiles.pptx)
+
+*Click the link above to download and view the complete presentation with all findings, visualizations, and insights.*
+
+### 🎯 Presentation Contents
+- **Front Page**: Project overview and contact information
+- **Slide 1**: Problem & Data Overview
+- **Slide 2**: Methods & Model Performance
+- **Slide 3**: Insights & Confusion Matrices
+- **Slide 4**: Conclusions & Future Work
+
 ## 👨‍💻 About the Author
 
 **Francisco Teixeira Barbosa**  
