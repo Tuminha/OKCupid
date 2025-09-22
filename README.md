@@ -3,13 +3,13 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![Machine Learning](https://img.shields.io/badge/ML-Supervised%20%7C%20Unsupervised-green.svg)](https://scikit-learn.org)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)](https://github.com/Tuminha)
+[![Status](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/Tuminha)
 
 ## 📋 Project Overview
 
 In recent years, there has been a massive rise in the usage of dating apps to find love. Many of these apps use sophisticated data science techniques to recommend possible matches to users and to optimize the user experience. These apps give us access to a wealth of information that we've never had before about how different people experience romance.
 
-This portfolio project analyzes data from **OKCupid**, an app that focuses on using multiple choice and short answers to match users. The project involves formulating questions and implementing machine learning techniques to answer those questions about dating patterns and user behavior.
+This portfolio project analyzes data from **OKCupid**, an app that focuses on using multiple choice and short answers to match users. The project investigates whether zodiac signs can be predicted from profile data, including essays and lifestyle choices, using machine learning techniques.
 
 ## 🎯 Project Objectives
 
@@ -59,10 +59,8 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### 📝 To Do
 <ul>
-<li>☐ Create features from essays and lifestyle data for ML model</li>
-<li>☐ Build and train machine learning model for zodiac prediction</li>
-<li>☐ Evaluate model performance and interpret results</li>
-<li>☐ Draw conclusions and document insights from the analysis</li>
+<li>☐ Create presentation slides</li>
+<li>☐ Document final insights and conclusions</li>
 </ul>
 
 </td>
@@ -70,8 +68,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ⚡ In Progress
 <ul>
-<li>☐ Analyze essay content using NLP techniques for zodiac prediction</li>
-<li>☐ Create features from essays and lifestyle data for ML model</li>
+<li>☐ Prepare 3-slide presentation</li>
 </ul>
 
 </td>
@@ -86,6 +83,10 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 <li>☐ Assess data quality - missing values, essay completion rates, zodiac patterns</li>
 <li>☐ Analyze essay completion patterns by zodiac sign</li>
 <li>☐ Explore lifestyle choices correlations with zodiac signs</li>
+<li>☐ Create features from essays and lifestyle data for ML model</li>
+<li>☐ Build and train machine learning model for zodiac prediction</li>
+<li>☐ Evaluate model performance and interpret results</li>
+<li>☐ Analyze essay content using NLP techniques for zodiac prediction</li>
 </ul>
 
 </td>
@@ -151,7 +152,9 @@ OKCupid/
 ├── date-a-scientist.ipynb
 ├── profiles.csv
 └── images/
-    └── date-A-Scientist.png
+    ├── date-A-Scientist.png
+    ├── confusion_matrix_structured_logistic.png
+    └── confusion_matrix_random_forest.png
 ```
 
 ## 🔧 Technologies Used
@@ -164,14 +167,34 @@ OKCupid/
 - **Matplotlib/Seaborn** - Data visualization
 - **Git** - Version control
 
-## 📈 Expected Outcomes
+## 📈 Key Findings
 
-This project will demonstrate:
-- Data analysis and visualization skills
-- Machine learning model development
-- Statistical analysis capabilities
-- Data preprocessing techniques
-- Presentation and communication of findings
+### 🎯 Research Question
+**Can we predict zodiac signs from OKCupid profile data?**
+
+### 📊 Results Summary
+- **Dataset**: 48,890 profiles with 12 zodiac signs
+- **Best Model**: Text-only model with 9.1% accuracy
+- **Baseline**: 8.9% (majority class)
+- **Improvement**: 0.2% over random chance
+
+### 🔍 Key Insights
+1. **Zodiac signs are not predictable** from profile data
+2. **Text features are most informative** (essays perform better than demographics)
+3. **Demographics matter more** than lifestyle choices
+4. **Data quality issues** (80% missing income, 59% missing offspring data)
+5. **Each zodiac sign has distinct word patterns** in essays
+
+### 🏆 Model Performance
+- **Structured Logistic**: 8.3% accuracy
+- **Random Forest**: 9.0% accuracy  
+- **Text-only**: 9.1% accuracy (best performer)
+
+### 📝 Top Discriminative Words by Sign
+- **Cancer**: "odd, damn, data, cancer, answering"
+- **Leo**: "competitive, saying, foundation, svu, culture"
+- **Pisces**: "evenings, annoying, policy, different types, camping"
+- **Gemini**: "things really, wings, adult, currently reading, missed"
 
 ## 👨‍💻 About the Author
 
