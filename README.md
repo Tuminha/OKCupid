@@ -59,8 +59,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### 📝 To Do
 <ul>
-<li>☐ Create presentation slides</li>
-<li>☐ Document final insights and conclusions</li>
+<li>☐ All tasks completed!</li>
 </ul>
 
 </td>
@@ -68,7 +67,7 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 
 ### ⚡ In Progress
 <ul>
-<li>☐ Prepare 3-slide presentation</li>
+<li>☐ Project completed and ready for presentation</li>
 </ul>
 
 </td>
@@ -87,6 +86,8 @@ This portfolio project analyzes data from **OKCupid**, an app that focuses on us
 <li>☐ Build and train machine learning model for zodiac prediction</li>
 <li>☐ Evaluate model performance and interpret results</li>
 <li>☐ Analyze essay content using NLP techniques for zodiac prediction</li>
+<li>☐ Create PowerPoint presentation with findings</li>
+<li>☐ Finalize project documentation and deliverables</li>
 </ul>
 
 </td>
@@ -151,6 +152,7 @@ OKCupid/
 ├── README.md
 ├── date-a-scientist.ipynb
 ├── profiles.csv
+├── Date-A-Scientist-Predicting-Zodiac-Signs-from-OKCupid-Profiles.pptx
 └── images/
     ├── date-A-Scientist.png
     ├── confusion_matrix_structured_logistic.png
