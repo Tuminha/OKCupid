@@ -190,6 +190,14 @@ OKCupid/
 - **Random Forest**: 9.0% accuracy  
 - **Text-only**: 9.1% accuracy (best performer)
 
+### 📊 Confusion Matrices
+
+#### Structured Logistic Regression Model
+![Structured Logistic Confusion Matrix](images/confusion_matrix_structured_logistic.png)
+
+#### Random Forest Model
+![Random Forest Confusion Matrix](images/confusion_matrix_random_forest.png)
+
 ### 📝 Top Discriminative Words by Sign
 - **Cancer**: "odd, damn, data, cancer, answering"
 - **Leo**: "competitive, saying, foundation, svu, culture"
